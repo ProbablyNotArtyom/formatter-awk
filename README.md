@@ -10,7 +10,7 @@ utility to format `awk` sources
 
 2.  Install the [formatter](https://atom.io/packages/formatter) base package from within Atom (*or with* `apm install formatter`)
 
-3.  Install this package from within Atom (*or with* `apm install formatter-awk`)
+3.  Install [this package](https://github.com/ProbablyNotArtyom/formatter-awk) from within Atom (*or with* `apm install formatter-awk`)
 
 ## Usage
 
