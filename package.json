@@ -1,0 +1,28 @@
+{
+  "name": "formatter-awk",
+  "main": "./lib/formatter-awk",
+  "version": "1.0.2",
+  "description": "Formatter for AWK.",
+  "keywords": [
+    "formatter",
+    "format",
+    "beautify",
+    "beautifier",
+    "pretty",
+    "awk",
+	"gawk"
+  ],
+  "repository": "https://github.com/probablynotartyom/formatter-awk",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "providedServices": {
+    "formatter": {
+      "versions": {
+        "1.0.0": "provideFormatter"
+      }
+    }
+  }
+}
